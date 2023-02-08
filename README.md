@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avivohayon&label=Profile%20views&color=0e75b6&style=flat" alt="avivohayon" /> </p>
 
-- 🔭 I’m currently working on **finance analyzer usuing ML**
+- 🔭 I’m currently working on **finance analyzer using ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/avivohayon](https://github.com/avivohayon)
 
