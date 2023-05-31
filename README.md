@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **avivohayon777@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10tom2ihtqd4fyFa_qHqAn9mV6C39nuXP/view?usp=sharing](https://drive.google.com/file/d/10tom2ihtqd4fyFa_qHqAn9mV6C39nuXP/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/10tom2ihtqd4fyFa_qHqAn9mV6C39nuXP/view?usp=sharing](https://drive.google.com/drive/u/1/folders/1KncknCzioJW-ofCfrDaQHmQrc9SC9R6-)](resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
