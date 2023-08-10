@@ -14,7 +14,7 @@
         <p align="left">
           <img src="https://komarev.com/ghpvc/?username=avivohayon&label=Profile%20views&color=0e75b6&style=flat" alt="avivohayon" />
         </p>
-      <img align="right" alt="Coding" width="200" src="https://miro.medium.com/max/1000/1*jGTqQo_dUA28d3GhuHYO8g.gif">
+      <img align="right" alt="Coding" width="200" src="https://38.media.tumblr.com/2140bbff8d52bcd535a64e01a0ac434c/tumblr_nchlg8cTOQ1qglpm1o1_500.gif">
   <p align="left">:hammer: I’m currently working on <a href="https://github.com/avivohayon/FashionLLM">FashionLLM project</a></p>
       <p align="left">👨‍💻 All of my projects are available at <a href="https://github.com/avivohayon">https://github.com/avivohayon</a></p>
   <p align="left">📫 How to reach me <strong>avivohayon777@gmail.com</strong></p>
