@@ -30,9 +30,9 @@ I focus on creating production-ready systems, prioritizing maintainability and p
 *   **Infrastructure**: Managing data persistence with SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Redis) solutions.
 
 #### 🤖 AI & Agentic Systems
-*   **Agent Frameworks**: Building structured environments for developing, versioning, and deploying AI agents.
-*   **MCP Implementation**: Working with the **Model Context Protocol** to connect LLMs securely to backend tools and real-world data.
-*   **Automation**: Creating intelligent workflows that automate complex developer tasks using AI.
+*   **Production-Ready Agents**: Developing robust agentic workflows using sophisticated prompt engineering and semantic **RAG** for data retrieval.
+*   **Custom Tooling (MCP)**: Building custom **Model Context Protocol** servers to extend agent capabilities with precise, domain-specific tools.
+*   **Optimized Architecture**: Designing intelligent workflows specifically for testability and evaluation, ensuring agents are optimized for production reliability.
 
 ---
 
